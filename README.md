@@ -18,7 +18,7 @@ cannot hang the app.
 
 **[KOO Design Build](https://github.com/ethanjkoo/portfolio-website)**
 Marketing site for a design-build construction firm serving federal, municipal,
-and commercial clients. (Kdb.com)
+and commercial clients. [Live site](Kdb.com)
 *Next.js App Router, Tailwind CSS 4, Vercel*
 
 **[Tracker Game](https://github.com/ethanjkoo/tracker-game)**
